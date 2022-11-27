@@ -1,0 +1,1576 @@
+[
+    {
+        "name": "Open from the Start",
+        "children": [
+            {
+                "name": "Grove Bellflower",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 462,
+                        "y": 842
+                    },
+                    {
+                        "map": "grove",
+                        "x": 428,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Vitality Heart #2",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 1359,
+                        "y": 968
+                    },
+                    {
+                        "map": "grove",
+                        "x": 1324,
+                        "y": 472
+                    }
+                ]
+            },
+            {
+                "name": "Astral Charm",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 1164,
+                        "y": 1032
+                    },
+                    {
+                        "map": "grove",
+                        "x": 1134,
+                        "y": 536
+                    }
+                ]
+            },
+            {
+                "name": "Vitality Heart #3",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 1804,
+                        "y": 1098
+                    },
+                    {
+                        "map": "grove",
+                        "x": 1768,
+                        "y": 596
+                    }
+                ]
+            },
+            {
+                "name": "Vitality Heart #10",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3850,
+                        "y": 1408
+                    },
+                    {
+                        "map": "garden",
+                        "x": 992,
+                        "y": 240
+                    }
+                ]
+            },
+            {
+                "name": "Imp Loves Shroom",
+                "access_rules": [
+                    "shroom"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 1623,
+                        "y": 1161
+                    },
+                    {
+                        "map": "grove",
+                        "x": 1580,
+                        "y": 664
+                    }
+                ]
+            },
+            {
+                "name": "Ivory Bug #3",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 1683,
+                        "y": 1221
+                    },
+                    {
+                        "map": "grove",
+                        "x": 1644,
+                        "y": 726
+                    }
+                ]
+            },
+            {
+                "name": "Ivory Bug #9",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+                        "name": "There's an invisible ledge leading to a breakable wall in the top right corner",
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3212,
+                        "y": 1224
+                    },
+                    {
+                        "map": "karst",
+                        "x": 852,
+                        "y": 393
+                    }
+                ]
+            },{
+                "name": "Vitality Heart #6",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3280,
+                        "y": 1284
+                    },
+                    {
+                        "map": "karst",
+                        "x": 918,
+                        "y": 456
+                    }
+                ]
+            },
+            {
+                "name": "Magnet Stone",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3404,
+                        "y": 1352
+                    },
+                    {
+                        "map": "karst",
+                        "x": 1047,
+                        "y": 519
+                    }
+                ]
+            },
+            {
+                "name": "Ivory Bug #2",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 1612,
+                        "y": 1089
+                    },
+                    {
+                        "map": "grove",
+                        "x": 1580,
+                        "y": 596
+                    }
+                ]
+            },
+            
+            {
+                "name": "Subterranean Crest Fragment",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2584,
+                        "y": 1480
+                    },
+                    {
+                        "map": "grave",
+                        "x": 317,
+                        "y": 98
+                    }
+                ]
+            },
+//            {
+  //              "name": "Sparse Thread",
+    //            "access_rules": [
+      //              "open"
+        //        ],
+          //      "sections": [
+            //        {
+//
+  //                      "item_count": 1
+    //                   
+      //              }
+        //        ],
+          //      "map_locations": [
+            //        {
+              //          "map": "full",
+                //        "x": 2700,
+//                        "y": 1480
+  //                  },
+    //                {
+      //                  "map": "grave",
+        //                "x": 442,
+          //              "y": 98
+            //        }
+ //               ]
+  //          },
+            {
+                "name": "Vitality Heart #7",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2508,
+                        "y": 1608
+                    },
+                    {
+                        "map": "grave",
+                        "x": 253,
+                        "y": 229
+                    }
+                ]
+            },
+            {
+                "name": "Tainted Missive",
+                "access_rules": ["open"],
+                "sections": [
+                    {
+                        
+                        "item_count": 1
+                
+                    }
+
+                   
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3980,
+                        "y": 1028
+                    },
+                    {
+                        "map": "monastery",
+                        "x": 376,
+                        "y": 132
+                    }
+                ]
+            },
+            {
+                "name": "Monastery Crest Fragment",
+                "access_rules": ["monastery"],
+                "sections": [
+                    {
+                        
+                        "item_count": 1
+                
+                    }
+
+                   
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 4560,
+                        "y": 1092
+                    },
+                    {
+                        "map": "monastery",
+                        "x": 954,
+                        "y": 194
+                    }
+                ]
+            },
+            {
+                "name": "Monastery Key",
+                "access_rules": ["open"],
+                "sections": [
+                    {
+                        
+                        "item_count": 1
+                
+                    }
+
+                   
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 4816,
+                        "y": 1284
+                    },
+                    {
+                        "map": "monastery",
+                        "x": 1208,
+                        "y": 388
+                    }
+                ]
+            },
+            {
+                "name": "Ivory Bug #17",
+                "access_rules": ["monastery"],
+                "sections": [
+                    {
+                        
+                        "item_count": 1
+                
+                    }
+
+                   
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 4432,
+                        "y": 1156
+                    },
+                    {
+                        "map": "monastery",
+                        "x": 826,
+                        "y": 260
+                    }
+                ]
+            },
+            {
+                "name": "Soft Tissue and Ivory Bug #20",
+                "access_rules": ["monastery, cat"],
+                "sections": [
+                    {
+                        "name": "Soft Tissue",
+                        "item_count": 1
+                
+                    },
+                    {
+                        "name": "Ivory Bug #20",
+                        "item_count": 1,
+                        "access_rules": [ "cat" ]
+                
+                    }
+
+                   
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 4496,
+                        "y": 1156
+                    },
+                    {
+                        "map": "monastery",
+                        "x": 890,
+                        "y": 260
+                    }
+                ]
+            },
+            {
+                "name": "Vitality Heart #11",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 4432,
+                        "y": 1224
+                    },
+                    {
+                        "map": "monastery",
+                        "x": 826,
+                        "y": 322
+                    }
+                ]
+            },
+            {
+                "name": "Vitality Heart #9 and Cinder Key",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+                        "name": "Vitality Heart #9",
+                        "item_count": 1
+                       
+                    },
+                    {
+                        "name": "Cinder Key",
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3852,
+                        "y": 2248
+                    },
+                    {
+                        "map": "cinder",
+                        "x": 350,
+                        "y": 732
+                    }
+                ]
+            },
+            {
+                "name": "Ivory Bug #15",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3916,
+                        "y": 2248
+                    },
+                    {
+                        "map": "cinder",
+                        "x": 414,
+                        "y": 732
+                    }
+                ]
+            },
+            {
+                "name": "Ivory Bug #14",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+                        "name": "Double jump into the ceiling next to the rightmost spikeball",
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3792,
+                        "y": 1992
+                    },
+                    {
+                        "map": "cinder",
+                        "x": 285,
+                        "y": 474
+                    }
+                ]
+            },
+            {
+                "name": "Ivory Bug #16",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+                        "name": "Double jump into the upper right wall",
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 4044,
+                        "y": 1732
+                    },
+                    {
+                        "map": "cinder",
+                        "x": 548,
+                        "y": 219
+                    }
+                ]
+            },
+            {
+                "name": "Cinder Crest Fragment",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 4312,
+                        "y": 2248
+                    },
+                    {
+                        "map": "cinder",
+                        "x": 810,
+                        "y": 732
+                    }
+                ]
+            },
+            {
+                "name": "Vitality Heart #8",
+                "access_rules": [
+                    "cinder"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3600,
+                        "y": 1988
+                    },
+                    {
+                        "map": "cinder",
+                        "x": 93,
+                        "y": 476
+                    }
+                ]
+            },
+            
+            {
+                "name": "Garden Key",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2384,
+                        "y": 1732
+                    },
+                    {
+                        "map": "grave",
+                        "x": 124,
+                        "y": 358
+                    }
+                ]
+            },
+            {
+                "name": "Ivory Bug #5",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2547,
+                        "y": 1155
+                    },
+                    {
+                        "map": "karst",
+                        "x": 213,
+                        "y": 327
+                    }
+                ]
+            },
+            {
+                "name": "Garden Key",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2388,
+                        "y": 1732
+                    },
+                    {
+                        "map": "grave",
+                        "x": 122,
+                        "y": 356
+                    }
+                ]
+            },
+            {
+                "name": "Eri Loves Hazel Badge",
+                "access_rules": [
+                    "hazel"
+                ],
+                "sections": [
+                    {
+                        "name": "Find her in Karst near Ivory Bug #5, after defeating Frida and Lubella, then she'll move here",
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2189,
+                        "y": 1161
+                    },
+                    {
+                        "map": "grove",
+                        "x": 2152,
+                        "y": 664
+                    }
+                ]
+            },
+            {
+                "name": "Karst Bellflower",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2767,
+                        "y": 1155
+                    },
+                    {
+                        "map": "karst",
+                        "x": 1914,
+                        "y": 1018
+                    }
+                ]
+            },
+            {
+                "name": "Vitality Heart #5",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2849,
+                        "y": 1100
+                    },
+                    {
+                        "map": "karst",
+                        "x": 1914,
+                        "y": 1018
+                    }
+                ]
+            }
+            
+
+                                                   
+        ]
+    },
+    {
+        "name": "Cat Checks",
+        "access_rules": [
+            "cat"],
+        
+        "children": [
+            {
+                "name": "Windmill Hot Spring",
+                "access_rules": [
+                    "wind"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3471,
+                        "y": 1282
+                    },
+                    {
+                        "map": "grove",
+                        "x": 1110,
+                        "y": 459
+                    }
+
+                ]
+            },
+            {
+                "name": "Dirty Shroom",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2508,
+                        "y": 1672
+                    },
+                    {
+                        "map": "grave",
+                        "x": 253,
+                        "y": 289
+                    }
+                ]
+            },
+            {
+                "name": "Ivory Bug #10",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3084,
+                        "y": 1608
+                    },
+                    {
+                        "map": "grave",
+                        "x": 820,
+                        "y": 225
+                    }
+                ]
+            },
+            {
+                "name": "Ivory Bug #1 (Kitty Ledge)",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 1485,
+                        "y": 1034
+                    },
+                    {
+                        "map": "grove",
+                        "x": 1454,
+                        "y": 538
+                    }
+
+                ]
+            },
+            {
+                "name": "Vitality Heart #1",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 1491,
+                        "y": 836
+                    },
+                    {
+                        "map": "grove",
+                        "x": 1454,
+                        "y": 344
+                    }
+                ]
+            },
+            
+            {
+                "name": "Ivory Bug #4",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+                        "name": "Go back to the stone wall on your way out, after changing the scenery",
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2129,
+                        "y": 1216
+                    },
+                    {
+                        "map": "grove",
+                        "x": 2088,
+                        "y": 724
+                    }
+                ]
+            },
+            
+            {
+                "name": "Vitality Heart #4",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2244,
+                        "y": 1287
+                    },
+                    {
+                        "map": "grove",
+                        "x": 2216,
+                        "y": 792
+                    }
+                ]
+            },
+            {
+                "name": "Frore Ciele Crest Fragment",
+                "access_rules": [
+                    "open"
+                ],
+                "sections": [
+                    {
+
+                        "item_count": 1
+                       
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 1997,
+                        "y": 1221
+                    },
+                    {
+                        "map": "grove",
+                        "x": 1968,
+                        "y": 728
+                    }
+                ]
+            }
+
+            
+            
+        ]
+    },
+    {
+        "name": "Garden Checks",
+        "access_rules": [
+            "garden"],
+        
+        "children": [
+            {
+                "name": "Bunny Florist",
+                "access_rules": ["open"],
+                "sections": [
+                    {
+                        "name": "10 Ivory Bug Reward",
+                        "item_count": 1,
+                        "access_rules":[ "bugs:10" ]                  
+                    },
+                    {
+                        "name": "15 Ivory Bug Reward",
+                        "item_count": 1,
+                        "access_rules": ["bugs:15"  ]                 
+                    },
+                    {
+                        "name": "20 Ivory Bug Reward",
+                        "item_count": 1,
+                        "access_rules":[ "bugs:20"   ]                
+                    }
+
+                   
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3597,
+                        "y": 1348
+                    },
+                    {
+                        "map": "garden",
+                        "x": 730,
+                        "y": 178
+                    }
+                ]
+            },
+            {
+                "name": "Cat Sphere",
+                "access_rules": ["open"],
+                "sections": [
+                    {
+                        
+                        "item_count": 1
+                
+                    }
+
+                   
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3216,
+                        "y": 1740
+                    },
+                    {
+                        "map": "garden",
+                        "x": 354,
+                        "y": 560
+                    }
+                ]
+            },
+            
+            {
+                "name": "Ivory Bug #11",
+                "access_rules": ["open"],
+                "sections": [
+                    {
+                        
+                        "item_count": 1
+                
+                    }
+
+                   
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3024,
+                        "y": 1796
+                    },
+                    {
+                        "map": "garden",
+                        "x": 160,
+                        "y": 624
+                    }
+                ]
+            },
+            {
+                "name": "Ivory Bug #12",
+                "access_rules": ["open"],
+                "sections": [
+                    {
+                        
+                        "item_count": 1
+                
+                    }
+
+                   
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3024,
+                        "y": 1860
+                    },
+                    {
+                        "map": "garden",
+                        "x": 160,
+                        "y": 692
+                    }
+                ]
+            },
+            {
+                "name": "Ivory Bug #13",
+                "access_rules": ["open"],
+                "sections": [
+                    {
+                        "name": "Requires dash fragment or cat sphere, hidden in upper left wall",
+                        "item_count": 1
+                
+                    }
+
+                   
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3472,
+                        "y": 1796
+                    },
+                    {
+                        "map": "garden",
+                        "x": 608,
+                        "y": 624
+                    }
+                ]
+            },
+            {
+                "name": "Whiteleaf Bellflower",
+                "access_rules": ["open"],
+                "sections": [
+                    {
+                        
+                        "item_count": 1
+                
+                    }
+
+                   
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3660,
+                        "y": 1860
+                    },
+                    {
+                        "map": "garden",
+                        "x": 798,
+                        "y": 690
+                    }
+                ]
+            }
+            
+              
+        ]
+    },
+    {
+        "name": "Karst Crest",
+        "access_rules": [
+            "crest:4"],
+        
+        "children": [
+            {
+                "name": "Vitality Heart #12",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2508,
+                        "y": 963
+                    },
+                    {
+                        "map": "royal",
+                        "x": 447,
+                        "y": 606
+                    }
+
+                ]
+            },
+            {
+                "name": "Black Sachet",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2320,
+                        "y": 840
+                    },
+                    {
+                        "map": "royal",
+                        "x": 261,
+                        "y": 479
+                    }
+
+                ]
+            },
+            {
+                "name": "Ivory Bug #6",
+                "access_rules": [
+                    "cat"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2384,
+                        "y": 580
+                    },
+                    {
+                        "map": "royal",
+                        "x": 324,
+                        "y": 221
+                    }
+
+                ]
+            },
+            {
+                "name": "Ivory Bug #7",
+                "access_rules": [
+                    "cat"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2448,
+                        "y": 580
+                    },
+                    {
+                        "map": "royal",
+                        "x": 387,
+                        "y": 221
+                    }
+
+                ]
+            },
+            {
+                "name": "Ivory Bug #8",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2448,
+                        "y": 644
+                    },
+                    {
+                        "map": "royal",
+                        "x": 387,
+                        "y": 288
+                    }
+
+                ]
+            },
+            {
+                "name": "Ivory Bug #18",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {   "name": "Air dash to an invisible platform",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3724,
+                        "y": 710
+                    },
+                    {
+                        "map": "castle",
+                        "x": 702,
+                        "y": 662
+                    }
+
+                ]
+            },
+            {
+                "name": "Ivory Bug #19",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 3911,
+                        "y": 451
+                    },
+                    {
+                        "map": "castle",
+                        "x": 896,
+                        "y": 406
+                    }
+
+                ]
+            },
+            {
+                "name": "Vitality Heart #15",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 4362,
+                        "y": 836
+                    },
+                    {
+                        "map": "castle",
+                        "x": 1338,
+                        "y": 790
+                    }
+
+                ]
+            },
+            {
+                "name": "Vitality Heart #16",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 4373,
+                        "y": 578
+                    },
+                    {
+                        "map": "castle",
+                        "x": 1344,
+                        "y": 532
+                    }
+
+                ]
+            },
+            {
+                "name": "Vitality Heart #17",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 4747,
+                        "y": 902
+                    },
+                    {
+                        "map": "castle",
+                        "x": 1724,
+                        "y": 854
+                    }
+
+                ]
+            },
+            {
+                "name": "Castle Bellflower",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 4554,
+                        "y": 902
+                    },
+                    {
+                        "map": "castle",
+                        "x": 1534,
+                        "y": 854
+                    }
+
+                ]
+            },
+            {
+                "name": "Kill Cath",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "name": "I know it sucks but you gotta :(",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 4494,
+                        "y": 517
+                    },
+                    {
+                        "map": "castle",
+                        "x": 1474,
+                        "y": 470
+                    }
+
+                ]
+            },
+            {
+                "name": "Vitality Heart #14",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2448,
+                        "y": 708
+                    },
+                    {
+                        "map": "royal",
+                        "x": 387,
+                        "y": 351
+                    }
+
+                ]
+            },
+            {
+                "name": "Vitality Heart #13",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2512,
+                        "y": 840
+                    },
+                    {
+                        "map": "royal",
+                        "x": 453,
+                        "y": 477
+                    }
+
+                ]
+            },
+            {
+                "name": "Sealed Wind",
+                "access_rules": [
+                    "open"                   
+                ],
+                "sections": [
+                    {
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "full",
+                        "x": 2572,
+                        "y": 444
+                    },
+                    {
+                        "map": "royal",
+                        "x": 516,
+                        "y": 92
+                    }
+
+                ]
+            }
+            
+
+            
+            
+        ]
+    }
+]

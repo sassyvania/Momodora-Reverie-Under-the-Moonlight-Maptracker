@@ -1,0 +1,120 @@
+﻿{
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "shared_item_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Full Map",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full"
+                ]
+              }
+            },
+            {
+              "title": "Sacred Ordalia Grove",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "grove"
+                ]
+              }
+            },
+            {
+              "title": "Whiteleaf Memorial Park",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "garden"
+                ]
+              }
+            },         
+            {
+              "title": "Karst City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "karst"
+                ]
+              }
+            },
+          
+            
+            {
+              "title": "Forlorn Monastery",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "monastery"
+                ]
+              }
+            },
+            {
+              "title": "Subterranean Grave",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "grave"
+                ]
+              }
+            },
+            {
+              "title": "Cinder Chambers",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "cinder"
+                ]
+              }
+            },
+            {
+              "title": "Royal Pinacotheca",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "royal"
+                ]
+              }
+            },
+            {
+              "title": "Karst Castle",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "castle"
+                ]
+              }
+            }
+            
+            
+            
+            
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,100 @@
+[  
+  
+  {
+    "name": "free",
+    "type": "consumable",
+    "img": "images/items/baljd.png",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 1,
+    "overlay_background": "#000000",
+    "overlay_font_size": 15,
+    "codes": "open"
+  },  
+  {
+    "name": "Crest Fragments",
+    "type": "consumable",
+    "img": "images/items/crest.png",
+    "max_quantity": 4,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 15,
+    "codes": "crest"
+  },  
+  {
+    "name": "Catsphere",
+    "type": "toggle",
+    "img": "images/items/catsphere.png",
+    "codes": "cat"
+  },
+  {
+    "name": "Hazel Badge",
+    "type": "toggle",
+    "img": "images/items/hazel.png",
+    "codes": "hazel"
+  },
+  {
+    "name": "Sealed Wind",
+    "type": "toggle",
+    "img": "images/items/sealedwind.png",
+    "codes": "wind"
+  },
+  {
+    "name": "Dirty Shroom",
+    "type": "toggle",
+    "img": "images/items/shroom.png",
+    "codes": "shroom"
+  },
+  {
+    "name": "Monastery Key",
+    "type": "toggle",
+    "img": "images/items/monastery.png",
+    "codes": "monastery"
+  },
+  {
+    "name": "Garden Key",
+    "type": "toggle",
+    "img": "images/items/gardenkey.png",
+    "codes": "garden"
+  },
+  {
+    "name": "Ivory Bugs",
+    "type": "consumable",
+    "img": "images/items/ivorybug.png",
+    "max_quantity": 20,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 15,
+    "codes": "bugs"
+  },
+  {
+    "name": "Cinder Key",
+    "type": "toggle",
+    "img": "images/items/cinder.png",
+    "codes": "cinder"
+  },
+  {
+    "name": "Maple Leaf",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/maple1.png",
+        "codes": "maple"
+
+      },
+      {
+        "img": "images/items/maple2.png",
+        "codes": "spring"
+
+      }
+    ]
+  
+  }
+]
