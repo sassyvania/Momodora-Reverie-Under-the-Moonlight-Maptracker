@@ -1,0 +1,41 @@
+﻿//sets the layout for the broadcast view
+{
+  "tracker_broadcast": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "1,1",
+    "content": [
+      {
+          "type": "itemgrid",
+          "item_margin": "5, 5",
+          "h_alignment": "left",
+          "item_size": 40,
+          "rows": [
+              [
+                  "maple",
+                  "bugs"
+              ],
+              [
+                  "monastery",
+                  "cinder"
+                            
+              ],
+              [
+                  
+                  "garden",
+                  "cat"
+              ],
+              [
+          
+                  "crest",
+                  "wind"],
+                  [
+                  "hazel",
+                  "shroom"
+                  
+              ]
+          ]
+      }
+          ]
+        }
+      }

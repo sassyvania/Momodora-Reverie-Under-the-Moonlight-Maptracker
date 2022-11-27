@@ -1,0 +1,57 @@
+[
+  {
+    "name": "full",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/map_full.png"
+  },
+  {
+    "name": "grove",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/map_grove.png"
+  },  
+  
+  {
+    "name": "karst",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/map_karst.png"
+  },
+  {
+    "name": "monastery",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/map_monastery.png"
+  },
+  {
+    "name": "castle",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/map_castle.png"
+  },
+  {
+    "name": "royal",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/map_royal.png"
+  },
+  {
+    "name": "garden",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/map_garden.png"
+  },
+  {
+    "name": "cinder",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/map_cinder.png"
+  },
+  {
+    "name": "grave",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/map_grave.png"
+  }
+]
